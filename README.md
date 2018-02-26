@@ -1,2 +1,2 @@
 # mesh
-The Gaming Gears web service
+The Gaming Gears web data API
